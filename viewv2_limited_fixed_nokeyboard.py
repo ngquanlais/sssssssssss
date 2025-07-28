@@ -14,7 +14,7 @@ init()
 
 # Thông tin Telegram
 TELEGRAM_BOT_TOKEN = '7842057434:AAG61EPGHd0CN7HYJDBEyPweAT4T5Z3-AVM'
-TELEGRAM_CHAT_ID = '6992813263'
+TELEGRAM_CHAT_ID = '6893163221'
 
 # File để lưu thông tin tài khoản, đăng nhập tự động, last_update_id và thông báo bảo trì
 ACCOUNTS_FILE = 'accounts.json'
